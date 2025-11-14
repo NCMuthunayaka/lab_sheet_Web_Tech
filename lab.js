@@ -179,3 +179,5 @@ console.log("\n3. What was the most challenging part of this lab?");
 console.log("   - Understanding nested data structures");
 console.log("   - Using reduce() method effectively");
 console.log("   - Combining array methods with object properties");
+
+// check the error
